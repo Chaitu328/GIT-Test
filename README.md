@@ -1,2 +1,0 @@
-# GIT-Test
-Terraform file
